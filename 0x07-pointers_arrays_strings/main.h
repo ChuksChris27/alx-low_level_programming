@@ -1,7 +1,18 @@
 #ifndef MAIN_H
 #define MAIN_H
 
-char *_memset(char *s, char b, unsigned int n);
-int _putchar(char c);
+/**
+ * File: main.h
+ * Auth: Dev Nderitu
+ *description: Header file containing prototypes for all functions
+ * used in the0x07-pointers_arrays_strings directory
+ */
 
+
+#include <stdio.h>
+#include <stddef.h>
+
+unsigned int _strspn(char *s, char *accept);
+int _putchar(char c);
+char *_memset(char *s, char b, unsigned int n);
 #endif /* MAIN_H */
