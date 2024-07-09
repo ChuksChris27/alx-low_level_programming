@@ -6,7 +6,8 @@
  *
  * FUNCTIONALITY *
  *
- * 1. Declare a function called print_alphabet_x10 that takes no arguments and returns no value.
+ * 1. Declare a function called print_alphabet_x10
+ * that takes no arguments and returns no value.
  * 2. Declare an integer variable i and initialize it to 0.
  * 3. Declare a for loop that will run 10 times.
  * 4. Declare a character variable c and initialize it to ‘a’.
